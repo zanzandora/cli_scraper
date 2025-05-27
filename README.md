@@ -1,4 +1,3 @@
-````
 # web-scraper
 
 A simple CLI tool to extract content from web pages using CSS selectors and save the results to a file.
@@ -13,9 +12,11 @@ A simple CLI tool to extract content from web pages using CSS selectors and save
 
 1. Clone this repository or copy the source code.
 2. Install dependencies:
+
    ```bash
    npm install
-````
+
+   ```
 
 3. (Optional) Install `tsx` globally if you want to run TypeScript files directly:
    ```bash
